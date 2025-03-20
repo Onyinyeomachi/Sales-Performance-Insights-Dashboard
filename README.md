@@ -11,10 +11,15 @@ Sterling aims to better understand customer behavior, preferences, and trends to
 The main objective of this project is to develop an interactive Excel dashboard that provides valuable insights into Sterling E-Commerce's sales and order data. The specific goals include:
 
 Sales Trend Analysis: Understanding sales patterns over time.
+
 Order Trend Analysis: Analyzing order patterns and identifying key trends.
+
 Sales by Product Category: Identifying best-selling and lowest-selling product categories.
+
 Sales by Region: Evaluating regional performance in terms of sales.
+
 Category and Regional Sales & Order Performance: Comparing sales and orders by product category and region to determine areas of success and areas needing improvement.
+
 The dashboard will provide a comprehensive analysis that aids in decision-making, helping Sterling optimize their product offerings, marketing strategies, and regional expansion efforts.
 
 
