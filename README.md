@@ -3,6 +3,7 @@ Business Overview
 Sterling E-Commerce is an online shop with a wide range of good-quality products. Their mission is to provide shoppers with an excellent experience in terms of quality, value, and convenience. There are various product categories that the site offers, including health & sports, fashion, electronics, home, beauty & grooming, among others. As a leading online retailer, Sterling is dedicated to continuing to innovate and improve according to customers' needs based on data insights.
 
 Problem Statement 
+
 The Director of Sterling E-Commerce reached out to the Data Science team to explore the potential of their data for gaining valuable business insights. Sterling aims to better understand customer behavior, preferences, and trends to enhance business decisions. They want to identify patterns in their data to optimize product offerings, streamline operations, and improve the customer experience. The ultimate goal is to leverage data to make informed decisions that boost efficiency and help the company stay competitive.
 
 
